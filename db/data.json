@@ -1,12 +1,5 @@
 [
   {
-    "id": "1",
-    "customer": "Suronjit",
-    "quantity": 2,
-    "food": "Burger",
-    "price": 350
-  },
-  {
     "id": "2",
     "customer": "Bithi",
     "quantity": 1,
@@ -49,13 +42,6 @@
     "price": 300
   },
   {
-    "id": "8",
-    "customer": "Imran",
-    "quantity": 1,
-    "food": "Beef Burger",
-    "price": 450
-  },
-  {
     "id": "9",
     "customer": "Ayesha",
     "quantity": 3,
@@ -75,6 +61,12 @@
     "price": 320,
     "quantity": 2,
     "id": "52.64955418213406"
+  },
+  {
+    "customer": "Shreya",
+    "food": "cokolate",
+    "price": 200,
+    "quantity": 4,
+    "id": "76.42556614129575"
   }
-  
 ]
